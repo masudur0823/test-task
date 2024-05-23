@@ -12,7 +12,7 @@ function HeroSection() {
           <p className="uppercase font-medium bg-primary text-[#DCFCE7] inline-block px-2 py-0.5 text-xs rounded-3xl">
             Header
           </p>
-          <h1 className="mt-6 text-3xl lg:text-5xl xl:text-6xl font-bold text-[#2A3342] leading-[2rem] lg:leading-[4.2rem]">
+          <h1 className="mt-6 text-5xl xl:text-6xl font-bold text-[#2A3342] leading-[3.2rem] lg:leading-[4.2rem]">
             A small business is only as good as its tools.
           </h1>
           <p className="text-paragraph-one text-lg xl:text-xl my-6">
